@@ -1,3 +1,4 @@
 # Copyright (C). No permission granted. All mine.
+name = input("Please enter your name: ")
 
-print("Hello!")
+print(f"Hello, {name}!")
