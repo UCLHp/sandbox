@@ -13,7 +13,6 @@ try:
     dob = datetime.date(year, month,day )
     print(dob)
     i=dob.weekday()
-    #print(i)
 except (ValueError):
     "Did you use the expected format?"
 
